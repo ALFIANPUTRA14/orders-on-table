@@ -176,6 +176,7 @@ int main() {
                 cout << "Uang kurang Rp " << total - bayar << "!\n";
             }
         }
+        cout << endl;
     }
 
     loading();
